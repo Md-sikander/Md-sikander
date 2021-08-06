@@ -10,6 +10,6 @@ About me-
 
 --> Currently working on optimizing first and last mile delivery 
 
---> Linkedin - ![sikander](https://www.linkedin.com/in/mohammad-sikander-khan-667794182/)
+--> Linkedin - ![](https://www.linkedin.com/in/mohammad-sikander-khan-667794182/)
 
 --> Email - sikanderkhan328@yahoo.com.com, sikander.khan@iitb.ac.in
