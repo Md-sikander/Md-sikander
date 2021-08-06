@@ -1,8 +1,9 @@
 Hi there 👋
+
 My name is Mohammad Sikander
 About me-
 
---> Currently I am pusruing M.Tech in Industrial Engineering and Operations Research (IEOR) at IIT Bombay.
+--> Currently I am pursuing M.Tech in Industrial Engineering and Operations Research (IEOR) at IIT Bombay.
 
 --> Living in Mumbai, Maharashtra
 
